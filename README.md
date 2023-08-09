@@ -1,9 +1,6 @@
 # Employee_Rentention_Prediction
 This project is an analysis of data from the Kaggle HR Dataset. The Project seeks to predict which employees are most likely to quit from different departments. 
 
-## Motivation
-This is project was done as part of a data science course. 
-
 ## Platform Used:
 Google Collab
 Github
