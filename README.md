@@ -6,14 +6,13 @@ Google Collab
 Github
 
 ## Summary of Analysis
-1. Defining the Question
+1. Understanding the Problem Statement
 2. Reading the Data.
 3. Checking the Data.
 4. Data Cleaning
-5. Merging the Dataframes
-6. Performing EDA
-7. Prediction Models
-8. Evaluation of the solution
+5. Performing EDA
+6. Modelling
+7. Evaluation of the solution
 
 
 ## Setup
